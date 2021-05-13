@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parralel="false">
+	<test name="testngTest">
+		<classes>
+			<class name="tests.Orders" />
+		</classes>
+	</test>
+</suite>
